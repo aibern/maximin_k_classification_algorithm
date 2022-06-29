@@ -1,0 +1,12 @@
+{
+"params": {
+  "num_classes": 32,
+  "N": 30,
+  "svm_type": "rbf",
+  "card_set_of_sets": 128,
+  "mu_limits": [-2, 2],
+  "sigma_limits": [0, 2],
+  "output_file": "data/links_3.json",
+  "result_file": "data/results_3.json"
+}
+}

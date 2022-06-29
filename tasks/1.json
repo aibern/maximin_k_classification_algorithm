@@ -1,0 +1,12 @@
+{
+"params": {
+  "num_classes": 4,
+  "N": 30,
+  "svm_type": "linear",
+  "card_set_of_sets": 16,
+  "mu_limits": [-2, 2],
+  "sigma_limits": [0, 2],
+  "output_file": "data/links_1.json",
+  "result_file": "data/results_1.json"
+}
+}
